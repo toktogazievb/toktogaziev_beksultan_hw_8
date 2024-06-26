@@ -1,0 +1,6 @@
+package players;
+
+public enum SuperAbilityEnum {
+
+    HEAL, BLOCK_DAMAGE_AND_REVERT, CRITICAL_DAMAGE, BRING_BACK_TO_LIFE ,BOOST, BOSS_HEALTH_STEALING,
+}
